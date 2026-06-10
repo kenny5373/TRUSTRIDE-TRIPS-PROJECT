@@ -1,4 +1,4 @@
-# TRUSTRIDE-TRIP-PROJECT
+# TRUSTRIDE-TRIP- PRRODUCTIVE PROJECT
 The first quarter of the year the company has been having trips scheduled but the revenue doesn't show to it, they are trying to figure out why they are having this problem
 
 **Business Problems**
@@ -16,7 +16,7 @@ The company noticed that the first quarter of the year they had members who call
 4. dashboard designs
 
 **Key Findings**
-1. Trips were mostly giving to available drivers
+1. Trips were mostly giving to available drivers who were third parties
 2. Houston had more trips than Beaumont
 3. Revenue came more in febraury, March
 
